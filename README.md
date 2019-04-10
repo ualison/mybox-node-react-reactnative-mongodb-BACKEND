@@ -1,2 +1,2 @@
 # node-react-reactnative-mongodb
-Project using Node, React and React-Native for an application that manager files, similar at DropBox
+MyBox is a project similar at DropBox. Created using Node, React and React-Native. This is back-end uses Node and MongoDB.
